@@ -18,3 +18,6 @@ Live site: https://montecristo.webart.work
 
 ## Notes
 Room categories, room count, amenities, capacity, and prices are explicitly flagged on the page as still needing confirmation. The sauna/hamam format, cost, capacity, hours, and access without a room stay are also flagged as needing to be clarified. Long-term rental terms and minimum stay are noted as available on request.
+
+## Forms
+Live HotelOS forms (hotel `kp-montecristo`): `stay-request` (номер або апартаменти) and `sauna-request` (сауна / хамам). Phone is the only required field; CTA links with `data-format` / `data-service` preselect the option.
